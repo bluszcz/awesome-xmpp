@@ -14,7 +14,10 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 * [Adium](https://adium.im/) - open source multi-protocol instant messaging client for Mac OS X.
 * [Conversations](https://github.com/siacs/Conversations) - an open source XMPP/Jabber client for the Android.
-* [Pidgin](https://www.pidgin.im/) - a chat program which lets you log in to accounts on multiple chat networks simultaneously.
+* [Converse](https://conversejs.org/) - a free and open-source XMPP chat client in your browser.
+* [Kaiwa](http://getkaiwa.com/) - a modern and apen source Web client for XMPP. 
+* [JSXC](https://www.jsxc.org/) - a modern, open source and available as Owncloud/Nextcloud plugin web client.
+* [Pidgin](https://www.pidgin.im/) - a chat program with support for multiple networks, crossplatform.
 * [Profanity](http://www.profanity.im/) - console based XMPP, Linux, FreeBSD, OSX, Windows and Android.
 * [Swift](https://swift.im/) - an elegant, secure, adaptable and intuitive XMPP Client.
 
