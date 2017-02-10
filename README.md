@@ -17,6 +17,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Pidgin](https://www.pidgin.im/) - a chat program which lets you log in to accounts on multiple chat networks simultaneously.
 * [Profanity](http://www.profanity.im/) - console based XMPP, Linux, FreeBSD, OSX, Windows and Android.
 * [Swift](https://swift.im/) - an elegant, secure, adaptable and intuitive XMPP Client.
+
 ## Servers 
 
 * [Ejabberd](https://www.ejabberd.im/) - a distributed fault-tolerant Jabber server which is mainly written in Erlang.
@@ -26,7 +27,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Libraries
 
-* [PyXMPP](https://github.com/Jajcus/pyxmpp) - Python Jabber/XMPP implementation
+* [PyXMPP](https://github.com/Jajcus/pyxmpp) - Python Jabber/XMPP implementation.
 * [Swiften](https://swift.im/swiften.html) - a cross-platform, and performant C++.
 
 ## Miscellaneous
