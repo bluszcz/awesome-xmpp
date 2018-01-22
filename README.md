@@ -10,11 +10,20 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
   - [Libraries](#libraries)
   - [Miscellaneous](#Miscellaneous)
 
+## Specification
+
+* [rfc6120](https://datatracker.ietf.org/doc/rfc6120/) Core
+* [rfc6121](https://datatracker.ietf.org/doc/rfc6121/) Instant Messaging and Presence
+* [rfc7622](https://datatracker.ietf.org/doc/rfc7622/) Address Format
+* [XEP series](https://xmpp.org/extensions/) Extensions to XMPP
+
 ## Clients
 
 * [Adium](https://adium.im/) - open source multi-protocol instant messaging client for Mac OS X.
 * [Conversations](https://github.com/siacs/Conversations) - an open source XMPP/Jabber client for the Android.
 * [Converse](https://conversejs.org/) - a free and open-source XMPP chat client in your browser.
+* [Coyim](https://github.com/coyim/coyim) - coyim - a safe and secure chat client
+* [Dino](https://github.com/dino/dino) - Modern Jabber/XMPP Client using GTK+/Vala
 * [Kaiwa](http://getkaiwa.com/) - a modern and apen source Web client for XMPP. 
 * [JSXC](https://www.jsxc.org/) - a modern, open source and available as Owncloud/Nextcloud plugin web client.
 * [Pidgin](https://www.pidgin.im/) - a chat program with support for multiple networks, crossplatform.
