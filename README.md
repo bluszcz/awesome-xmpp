@@ -35,15 +35,19 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 * [Ejabberd](https://www.ejabberd.im/) - a distributed fault-tolerant Jabber server which is mainly written in Erlang.
 * [Jabberd2](http://jabberd2.org/) - next generation of the jabberd project, c++.
+* [Jabberd3](https://github.com/smokku/jabberd3) - jabberd evolution
 * [Openfire](https://www.igniterealtime.org/projects/openfire/) - XMPP server written in Java.
 * [Prosody](https://prosody.im/) - a lightweight, open source Jabber server, written in Lua.
 
 ## Libraries
 
 * [PyXMPP](https://github.com/Jajcus/pyxmpp) - Python Jabber/XMPP implementation.
+* [SleekXMPP](https://github.com/fritzy/SleekXMPP) - Python 2.6+/3.1+ XMPP Library
 * [Swiften](https://swift.im/swiften.html) - a cross-platform, and performant C++.
 
 ## Miscellaneous
 
 * [Buyddcloud](http://buddycloud.com/) - tools, libraries and services for secure cloud & on-premise user and group messaging.
 * [Movim](https://github.com/movim/movim) - a distributed social network built on top of XMPP.
+* [XMPP Compliance](https://conversations.im/compliance/) - Service checking compliance of the XMPP servers
+* [XMPP Observatory](https://xmpp.net/) - Testing the security of the Jabber/XMPP network
