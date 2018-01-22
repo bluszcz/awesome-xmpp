@@ -2,7 +2,7 @@
 
 A curated list of awesome XMPP servers, libraries, software and resources.
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome).
+## Contents
 
 - [Awesome XMPP](#awesome-xmpp)
   - [Specifications](#specifications)
