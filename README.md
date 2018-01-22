@@ -4,12 +4,11 @@ A curated list of awesome XMPP servers, libraries, software and resources.
 
 ## Contents
 
-- [Awesome XMPP](#awesome-xmpp)
-  - [Specifications](#specifications)
-  - [Clients](#clients)
-  - [Servers](#servers)
-  - [Libraries](#libraries)
-  - [Miscellaneous](#Miscellaneous)
+ - [Specifications](#specifications)
+ - [Clients](#clients)
+ - [Servers](#servers)
+ - [Libraries](#libraries)
+ - [Miscellaneous](#Miscellaneous)
 
 ## Specifications
 
