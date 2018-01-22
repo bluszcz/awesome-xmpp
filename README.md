@@ -12,19 +12,19 @@ A curated list of awesome XMPP servers, libraries, software and resources.
 
 ## Specifications
 
-* [rfc6120](https://datatracker.ietf.org/doc/rfc6120/) Core
-* [rfc6121](https://datatracker.ietf.org/doc/rfc6121/) Instant Messaging and Presence
-* [rfc7622](https://datatracker.ietf.org/doc/rfc7622/) Address Format
-* [XEP series](https://xmpp.org/extensions/) Extensions to XMPP
+* [rfc6120](https://datatracker.ietf.org/doc/rfc6120/) Core.
+* [rfc6121](https://datatracker.ietf.org/doc/rfc6121/) Instant Messaging and Presence.
+* [rfc7622](https://datatracker.ietf.org/doc/rfc7622/) Address Format.
+* [XEP series](https://xmpp.org/extensions/) Extensions to XMPP.
 
 ## Clients
 
 * [Adium](https://adium.im/) - open source multi-protocol instant messaging client for Mac OS X.
-* [ChatSecure](https://chatsecure.org/) - Encrypted Messenger for iOS 
+* [ChatSecure](https://chatsecure.org/) - Encrypted Messenger for iOS.
 * [Conversations](https://github.com/siacs/Conversations) - an open source XMPP/Jabber client for the Android.
 * [Converse](https://conversejs.org/) - a free and open-source XMPP chat client in your browser.
-* [Coyim](https://github.com/coyim/coyim) - coyim - a safe and secure chat client
-* [Dino](https://github.com/dino/dino) - Modern Jabber/XMPP Client using GTK+/Vala
+* [Coyim](https://github.com/coyim/coyim) - coyim - a safe and secure chat client.
+* [Dino](https://github.com/dino/dino) - Modern Jabber/XMPP Client using GTK+/Vala.
 * [Kaiwa](http://getkaiwa.com/) - a modern and apen source Web client for XMPP. 
 * [JSXC](https://www.jsxc.org/) - a modern, open source and available as Owncloud/Nextcloud plugin web client.
 * [Pidgin](https://www.pidgin.im/) - a chat program with support for multiple networks, crossplatform.
@@ -50,7 +50,7 @@ A curated list of awesome XMPP servers, libraries, software and resources.
 * [Buyddcloud](http://buddycloud.com/) - tools, libraries and services for secure cloud & on-premise user and group messaging.
 * [Movim](https://github.com/movim/movim) - a distributed social network built on top of XMPP.
 * [XMPP Compliance](https://conversations.im/compliance/) - Service checking compliance of the XMPP servers
-* [XMPP Observatory](https://xmpp.net/) - Testing the security of the Jabber/XMPP network
+* [XMPP Observatory](https://xmpp.net/) - Testing the security of the Jabber/XMPP network.
 
 ## License
 
