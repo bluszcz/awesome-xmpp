@@ -52,3 +52,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Movim](https://github.com/movim/movim) - a distributed social network built on top of XMPP.
 * [XMPP Compliance](https://conversations.im/compliance/) - Service checking compliance of the XMPP servers
 * [XMPP Observatory](https://xmpp.net/) - Testing the security of the Jabber/XMPP network
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
