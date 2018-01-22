@@ -12,10 +12,10 @@ A curated list of awesome XMPP servers, libraries, software and resources.
 
 ## Specifications
 
-* [rfc6120](https://datatracker.ietf.org/doc/rfc6120/) Core.
-* [rfc6121](https://datatracker.ietf.org/doc/rfc6121/) Instant Messaging and Presence.
-* [rfc7622](https://datatracker.ietf.org/doc/rfc7622/) Address Format.
-* [XEP series](https://xmpp.org/extensions/) Extensions to XMPP.
+* [RFC6120](https://datatracker.ietf.org/doc/rfc6120/) Core.
+* [RFC6121](https://datatracker.ietf.org/doc/rfc6121/) Instant Messaging and Presence.
+* [RFC7622](https://datatracker.ietf.org/doc/rfc7622/) Address Format.
+* [XEPs](https://xmpp.org/extensions/) Extensions to XMPP.
 
 ## Clients
 
