@@ -5,12 +5,13 @@ A curated list of awesome XMPP servers, libraries, software and resources.
 Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 - [Awesome XMPP](#awesome-xmpp)
+  - [Specifications](#specifications)
   - [Clients](#clients)
   - [Servers](#servers)
   - [Libraries](#libraries)
   - [Miscellaneous](#Miscellaneous)
 
-## Specification
+## Specifications
 
 * [rfc6120](https://datatracker.ietf.org/doc/rfc6120/) Core
 * [rfc6121](https://datatracker.ietf.org/doc/rfc6121/) Instant Messaging and Presence
