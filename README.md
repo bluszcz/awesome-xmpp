@@ -21,6 +21,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 ## Clients
 
 * [Adium](https://adium.im/) - open source multi-protocol instant messaging client for Mac OS X.
+* [ChatSecure](https://chatsecure.org/) - Encrypted Messenger for iOS 
 * [Conversations](https://github.com/siacs/Conversations) - an open source XMPP/Jabber client for the Android.
 * [Converse](https://conversejs.org/) - a free and open-source XMPP chat client in your browser.
 * [Coyim](https://github.com/coyim/coyim) - coyim - a safe and secure chat client
