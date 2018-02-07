@@ -35,22 +35,22 @@ A curated list of awesome XMPP servers, libraries, software and resources.
 
 * [Ejabberd](https://www.ejabberd.im/) - distributed fault-tolerant Jabber server which is mainly written in Erlang.
 * [Jabberd2](http://jabberd2.org/) - next generation of the jabberd project, c++.
-* [Jabberd3](https://github.com/smokku/jabberd3) - jabberd evolution
+* [Jabberd3](https://github.com/smokku/jabberd3) - jabberd evolution.
 * [Openfire](https://www.igniterealtime.org/projects/openfire/) - XMPP server written in Java.
 * [Prosody](https://prosody.im/) - lightweight, open source Jabber server, written in Lua.
 
 ## Libraries
 
 * [PyXMPP](https://github.com/Jajcus/pyxmpp) - python Jabber/XMPP implementation.
-* [SleekXMPP](https://github.com/fritzy/SleekXMPP) - python 2.6+/3.1+ XMPP Library
+* [SleekXMPP](https://github.com/fritzy/SleekXMPP) - python 2.6+/3.1+ XMPP Library.
 * [Swiften](https://swift.im/swiften.html) - cross-platform, and performant C++.
-* [https://github.com/xmppjs/xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript
+* [xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript.
 
 ## Miscellaneous
 
 * [Buyddcloud](http://buddycloud.com/) - tools, libraries and services for secure cloud & on-premise user and group messaging.
 * [Movim](https://github.com/movim/movim) - distributed social network built on top of XMPP.
-* [XMPP Compliance](https://conversations.im/compliance/) - service checking compliance of the XMPP servers
+* [XMPP Compliance](https://conversations.im/compliance/) - service checking compliance of the XMPP servers.
 * [XMPP Observatory](https://xmpp.net/) - testing the security of the Jabber/XMPP network.
 
 ## License
