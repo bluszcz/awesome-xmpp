@@ -8,6 +8,7 @@ A curated list of awesome XMPP servers, libraries, software and resources.
  - [Clients](#clients)
  - [Servers](#servers)
  - [Libraries](#libraries)
+ - [Advanced Usages](#advanced-usages)
  - [Miscellaneous](#Miscellaneous)
 
 ## Specifications
@@ -46,10 +47,14 @@ A curated list of awesome XMPP servers, libraries, software and resources.
 * [Swiften](https://swift.im/swiften.html) - cross-platform, and performant C++.
 * [xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript.
 
+## Advanced Usages
+
+* [Movim](https://github.com/movim/movim) - distributed social network built on top of XMPP.
+* [Saros](http://www.saros-project.org/) - real-time collaborative editor for eclipse projects.
+
 ## Miscellaneous
 
 * [Buyddcloud](http://buddycloud.com/) - tools, libraries and services for secure cloud & on-premise user and group messaging.
-* [Movim](https://github.com/movim/movim) - distributed social network built on top of XMPP.
 * [XMPP Compliance](https://conversations.im/compliance/) - service checking compliance of the XMPP servers.
 * [XMPP Observatory](https://xmpp.net/) - testing the security of the Jabber/XMPP network.
 
