@@ -42,8 +42,8 @@ A curated list of awesome XMPP servers, libraries, software and resources.
 
 ## Libraries
 
-* [PyXMPP](https://github.com/Jajcus/pyxmpp) - python Jabber/XMPP implementation.
-* [SleekXMPP](https://github.com/fritzy/SleekXMPP) - python 2.6+/3.1+ XMPP Library.
+* [PyXMPP](https://github.com/Jajcus/pyxmpp) - Python Jabber/XMPP implementation.
+* [SleekXMPP](https://github.com/fritzy/SleekXMPP) - Python 2.6+/3.1+ XMPP Library.
 * [Swiften](https://swift.im/swiften.html) - Cross-platform, and performant C++.
 * [xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript.
 
