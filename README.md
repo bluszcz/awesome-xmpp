@@ -20,43 +20,43 @@ A curated list of awesome XMPP servers, libraries, software and resources.
 
 ## Clients
 
-* [Adium](https://adium.im/) - open source multi-protocol instant messaging client for Mac OS X.
+* [Adium](https://adium.im/) - Open source multi-protocol instant messaging client for Mac OS X.
 * [ChatSecure](https://chatsecure.org/) - Encrypted Messenger for iOS.
-* [Conversations](https://github.com/siacs/Conversations) - open source XMPP/Jabber client for the Android.
-* [Converse](https://conversejs.org/) - free and open-source XMPP chat client in your browser.
-* [Coyim](https://github.com/coyim/coyim) - safe and secure chat client.
+* [Conversations](https://github.com/siacs/Conversations) - Open source XMPP/Jabber client for the Android.
+* [Converse](https://conversejs.org/) - Free and open-source XMPP chat client in your browser.
+* [Coyim](https://github.com/coyim/coyim) - Safe and secure chat client.
 * [Dino](https://github.com/dino/dino) - Modern Jabber/XMPP Client using GTK+/Vala.
-* [Kaiwa](http://getkaiwa.com/) - modern and apen source Web client for XMPP. 
-* [JSXC](https://www.jsxc.org/) - modern, open source and available as Owncloud/Nextcloud plugin web client.
-* [Pidgin](https://www.pidgin.im/) - chat program with support for multiple networks, crossplatform.
-* [Profanity](http://www.profanity.im/) - console based XMPP, Linux, FreeBSD, OSX, Windows and Android.
-* [Swift](https://swift.im/) - elegant, secure, adaptable and intuitive XMPP Client.
+* [Kaiwa](http://getkaiwa.com/) - Modern and apen source Web client for XMPP. 
+* [JSXC](https://www.jsxc.org/) - Modern, open source and available as Owncloud/Nextcloud plugin web client.
+* [Pidgin](https://www.pidgin.im/) - Chat program with support for multiple networks, crossplatform.
+* [Profanity](http://www.profanity.im/) - Console based XMPP, Linux, FreeBSD, OSX, Windows and Android.
+* [Swift](https://swift.im/) - Elegant, secure, adaptable and intuitive XMPP Client.
 
 ## Servers 
 
-* [Ejabberd](https://www.ejabberd.im/) - distributed fault-tolerant Jabber server which is mainly written in Erlang.
-* [Jabberd2](http://jabberd2.org/) - next generation of the jabberd project, c++.
-* [Jabberd3](https://github.com/smokku/jabberd3) - jabberd evolution.
+* [Ejabberd](https://www.ejabberd.im/) - Distributed fault-tolerant Jabber server which is mainly written in Erlang.
+* [Jabberd2](http://jabberd2.org/) - Next generation of the jabberd project, c++.
+* [Jabberd3](https://github.com/smokku/jabberd3) - Evolution of jabberd2.
 * [Openfire](https://www.igniterealtime.org/projects/openfire/) - XMPP server written in Java.
-* [Prosody](https://prosody.im/) - lightweight, open source Jabber server, written in Lua.
+* [Prosody](https://prosody.im/) - Kightweight, open source Jabber server, written in Lua.
 
 ## Libraries
 
 * [PyXMPP](https://github.com/Jajcus/pyxmpp) - python Jabber/XMPP implementation.
 * [SleekXMPP](https://github.com/fritzy/SleekXMPP) - python 2.6+/3.1+ XMPP Library.
-* [Swiften](https://swift.im/swiften.html) - cross-platform, and performant C++.
+* [Swiften](https://swift.im/swiften.html) - Cross-platform, and performant C++.
 * [xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript.
 
 ## Advanced Usages
 
-* [Movim](https://github.com/movim/movim) - distributed social network built on top of XMPP.
-* [Saros](http://www.saros-project.org/) - real-time collaborative editor for eclipse projects.
+* [Movim](https://github.com/movim/movim) - Distributed social network built on top of XMPP.
+* [Saros](http://www.saros-project.org/) - Real-time collaborative editor for eclipse projects.
 
 ## Miscellaneous
 
-* [Buyddcloud](http://buddycloud.com/) - tools, libraries and services for secure cloud & on-premise user and group messaging.
-* [XMPP Compliance](https://conversations.im/compliance/) - service checking compliance of the XMPP servers.
-* [XMPP Observatory](https://xmpp.net/) - testing the security of the Jabber/XMPP network.
+* [Buyddcloud](http://buddycloud.com/) - Tools, libraries and services for secure cloud & on-premise user and group messaging.
+* [XMPP Compliance](https://conversations.im/compliance/) - Service checking compliance of the XMPP servers.
+* [XMPP Observatory](https://xmpp.net/) - Testing the security of the Jabber/XMPP network.
 
 ## License
 
