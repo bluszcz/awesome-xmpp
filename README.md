@@ -57,7 +57,7 @@ A curated list of awesome XMPP servers, libraries, software and resources.
 * [Buyddcloud](http://buddycloud.com/) - Tools, libraries and services for secure cloud & on-premise user and group messaging.
 * [XMPP Compliance](https://conversations.im/compliance/) - Service checking compliance of the XMPP servers.
 * [XMPP Observatory](https://xmpp.net/) - Testing the security of the Jabber/XMPP network.
-* [The Jabber Spam Fighting Manifesto](https://github.com/ge0rg/jabber-spam-fighting-manifesto/) - Federated Server Policies against the spam
+* [The Jabber Spam Fighting Manifesto](https://github.com/ge0rg/jabber-spam-fighting-manifesto/) - Federated Server Policies against the spam.
 
 ## License
 
