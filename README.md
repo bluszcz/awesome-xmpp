@@ -38,7 +38,7 @@ A curated list of awesome XMPP servers, libraries, software and resources.
 * [Jabberd2](http://jabberd2.org/) - Next generation of the jabberd project, c++.
 * [Jabberd3](https://github.com/smokku/jabberd3) - Evolution of jabberd2.
 * [Openfire](https://www.igniterealtime.org/projects/openfire/) - XMPP server written in Java.
-* [Prosody](https://prosody.im/) - Kightweight, open source Jabber server, written in Lua.
+* [Prosody](https://prosody.im/) - Lightweight, open source Jabber server, written in Lua.
 
 ## Libraries
 
