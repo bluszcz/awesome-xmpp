@@ -10,7 +10,7 @@ A curated list of awesome XMPP servers, libraries, software and resources.
  - [Libraries](#libraries)
  - [Advanced Usages](#advanced-usages)
  - [Miscellaneous](#Miscellaneous)
- - [Most robust XMPP providers](#Most robust XMPP providers)
+ - [Most robust XMPP providers](#most-robust-xmpp-providers)
 
 ## Specifications
 
