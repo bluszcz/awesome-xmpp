@@ -10,6 +10,7 @@ A curated list of awesome XMPP servers, libraries, software and resources.
  - [Libraries](#libraries)
  - [Advanced Usages](#advanced-usages)
  - [Miscellaneous](#Miscellaneous)
+ - [Most robust XMPP providers](#Most robust XMPP providers)
 
 ## Specifications
 
@@ -59,6 +60,20 @@ A curated list of awesome XMPP servers, libraries, software and resources.
 * [XMPP Observatory](https://xmpp.net/) - Testing the security of the Jabber/XMPP network.
 * [The Jabber Spam Fighting Manifesto](https://github.com/ge0rg/jabber-spam-fighting-manifesto/) - Federated Server Policies against the spam.
 * [XMPP Manifesto for Freedom](https://gitlab.com/senpie/xmpp-manifesto-for-freedom) - Freedom Manifesto, response to above.
+
+## Most robust XMPP providers
+
+XMPP Providers with more than 15 years uptime and with an *A* security grade. Extracted with:
+
+```
+links -dump https://xmpp.net/directory.php |grep -p '200[0-3]' |grep ' A '
+```
+
+* [jabber.cz](jabber.cz)
+* [jabber.meta.net.nz](jabber.meta.net.nz)
+* [jabberpl.org](jabberpl.org)
+* [jwchat.org](jwchat.org)
+* [njs.netlab.cz](njs.netlab.cz)
 
 ## License
 
