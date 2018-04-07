@@ -31,17 +31,18 @@ A curated list of awesome XMPP servers, libraries, software and resources.
 * [JSXC](https://www.jsxc.org/) - Modern, open source and available as Owncloud/Nextcloud plugin web client.
 * [Pidgin](https://www.pidgin.im/) - Chat program with support for multiple networks, crossplatform.
 * [Profanity](http://www.profanity.im/) - Console based XMPP, Linux, FreeBSD, OSX, Windows and Android.
-* [Swift](https://swift.im/) - Elegant, secure, adaptable and intuitive XMPP Client.
+* [Swift](https://swift.im/) - Elegant, secure, adaptable and intuitive XMPP client.
 * [Psi](https://psi-im.org/) - Qt client (Linux, Windows, OSX).
+* [Gajim](https://gajim.org/) - Full featured and easy to use XMPP client (Python GTK3).
 
 ## Servers 
 
 * [Ejabberd](https://www.ejabberd.im/) - Distributed fault-tolerant Jabber server which is mainly written in Erlang.
 * [Jabberd2](http://jabberd2.org/) - Next generation of the jabberd project, c++.
-* [Jabberd3](https://github.com/smokku/jabberd3) - Evolution of jabberd2.
 * [Openfire](https://www.igniterealtime.org/projects/openfire/) - XMPP server written in Java.
 * [Prosody](https://prosody.im/) - Lightweight, open source Jabber server, written in Lua.
 * [Metronome](https://metronome.im/) - Fork of Prosody server, more complete with a dual license.
+* [Tigase](https://tigase.net/content/tigase-xmpp-server) - Highly optimized, modular and flexibe XMPP server.
 
 ## Libraries
 
