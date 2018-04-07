@@ -32,6 +32,7 @@ A curated list of awesome XMPP servers, libraries, software and resources.
 * [Pidgin](https://www.pidgin.im/) - Chat program with support for multiple networks, crossplatform.
 * [Profanity](http://www.profanity.im/) - Console based XMPP, Linux, FreeBSD, OSX, Windows and Android.
 * [Swift](https://swift.im/) - Elegant, secure, adaptable and intuitive XMPP Client.
+* [Psi](https://psi-im.org/) - Qt client (Linux, Windows, OSX).
 
 ## Servers 
 
