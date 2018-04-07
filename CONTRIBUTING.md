@@ -2,6 +2,7 @@
 
 ## Adding to this list
 
+* Do not create a issue but instead make a pull request
 * Insert a new entry **alphabetically**
 * New categories or improvements to the existing categorization are welcome
 * Use the following format: `[entry title](link) - additional information.`
