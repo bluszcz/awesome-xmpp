@@ -1,6 +1,8 @@
 # Awesome XMPP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome XMPP servers, libraries, software and resources.
+> A curated list of awesome XMPP servers, libraries, software and resources.
+
+XMPP is an open XML technology for real-time communication, which powers a wide range of applications including instant messaging, presence and collaboration.
 
 ## Contents
 
