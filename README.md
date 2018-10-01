@@ -68,17 +68,18 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Most robust XMPP providers
 
-XMPP Providers with more than 15 years uptime and with an *A* security grade. Extracted with:
+XMPP Providers with more than 15 years uptime and with an *A* security grade.
+This is awesome, because these servers are mainly hosted by private parties and it not common to keep a system up for more then a decade.
 
-```
-links -dump https://xmpp.net/directory.php |grep -p '200[0-3]' |grep ' A '
-```
+* [jabber.cz](https://jabber.cz)
+* [jabber.meta.net.nz](https://jabber.meta.net.nz)
+* [jabberpl.org](https://jabberpl.org)
+* [jwchat.org](https://jwchat.org)
+* [njs.netlab.cz](https://njs.netlab.cz)
 
-* [jabber.cz](jabber.cz)
-* [jabber.meta.net.nz](jabber.meta.net.nz)
-* [jabberpl.org](jabberpl.org)
-* [jwchat.org](jwchat.org)
-* [njs.netlab.cz](njs.netlab.cz)
+This list was extracted with following command:
+
+    links -dump https://xmpp.net/directory.php |grep -p '200[0-3]' |grep ' A '
 
 ## License
 
