@@ -29,21 +29,21 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Converse](https://conversejs.org/) - Free and open-source XMPP chat client in your browser.
 * [Coyim](https://github.com/coyim/coyim) - Safe and secure chat client.
 * [Dino](https://github.com/dino/dino) - Modern Jabber/XMPP Client using GTK+/Vala.
-* [Kaiwa](http://getkaiwa.com/) - Modern and apen source Web client for XMPP. 
+* [Gajim](https://gajim.org/) - Full featured and easy to use XMPP client (Python GTK3).
 * [JSXC](https://www.jsxc.org/) - Modern, open source and available as Owncloud/Nextcloud plugin web client.
+* [Kaiwa](http://getkaiwa.com/) - Modern and apen source Web client for XMPP. 
 * [Pidgin](https://www.pidgin.im/) - Chat program with support for multiple networks, crossplatform.
 * [Profanity](http://www.profanity.im/) - Console based XMPP, Linux, FreeBSD, OSX, Windows and Android.
-* [Swift](https://swift.im/) - Elegant, secure, adaptable and intuitive XMPP client.
 * [Psi](https://psi-im.org/) - Qt client (Linux, Windows, OSX).
-* [Gajim](https://gajim.org/) - Full featured and easy to use XMPP client (Python GTK3).
+* [Swift](https://swift.im/) - Elegant, secure, adaptable and intuitive XMPP client.
 
 ## Servers 
 
 * [Ejabberd](https://www.ejabberd.im/) - Distributed fault-tolerant Jabber server which is mainly written in Erlang.
 * [Jabberd2](http://jabberd2.org/) - Next generation of the jabberd project, c++.
+* [Metronome](https://metronome.im/) - Fork of Prosody server, more complete with a dual license.
 * [Openfire](https://www.igniterealtime.org/projects/openfire/) - XMPP server written in Java.
 * [Prosody](https://prosody.im/) - Lightweight, open source Jabber server, written in Lua.
-* [Metronome](https://metronome.im/) - Fork of Prosody server, more complete with a dual license.
 * [Tigase](https://tigase.net/content/tigase-xmpp-server) - Highly optimized, modular and flexibe XMPP server.
 
 ## Libraries
@@ -61,10 +61,10 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 ## Miscellaneous
 
 * [Buyddcloud](http://buddycloud.com/) - Tools, libraries and services for secure cloud & on-premise user and group messaging.
-* [XMPP Compliance](https://conversations.im/compliance/) - Service checking compliance of the XMPP servers.
-* [XMPP Observatory](https://xmpp.net/) - Testing the security of the Jabber/XMPP network.
 * [The Jabber Spam Fighting Manifesto](https://github.com/ge0rg/jabber-spam-fighting-manifesto/) - Federated Server Policies against the spam.
+* [XMPP Compliance](https://conversations.im/compliance/) - Service checking compliance of the XMPP servers.
 * [XMPP Manifesto for Freedom](https://gitlab.com/senpie/xmpp-manifesto-for-freedom) - Freedom Manifesto, response to above.
+* [XMPP Observatory](https://xmpp.net/) - Testing the security of the Jabber/XMPP network.
 
 ## Most robust XMPP providers
 
