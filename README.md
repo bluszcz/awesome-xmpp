@@ -39,12 +39,15 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Servers 
 
+* [Astra](https://www.astrachat.com/) - Commercial XMPP solution
 * [Ejabberd](https://www.ejabberd.im/) - Distributed fault-tolerant Jabber server which is mainly written in Erlang.
 * [Jabberd2](http://jabberd2.org/) - Next generation of the jabberd project, c++.
 * [Metronome](https://metronome.im/) - Fork of Prosody server, more complete with a dual license.
 * [Openfire](https://www.igniterealtime.org/projects/openfire/) - XMPP server written in Java.
 * [Prosody](https://prosody.im/) - Lightweight, open source Jabber server, written in Lua.
 * [Tigase](https://tigase.net/content/tigase-xmpp-server) - Highly optimized, modular and flexibe XMPP server.
+* [Vysper](//mina.apache.org/vysper-project/) - XMPP Modular server from Apache
+
 
 ## Libraries
 
