@@ -49,7 +49,8 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Openfire](https://www.igniterealtime.org/projects/openfire/) - XMPP server written in Java.
 * [Prosody](https://prosody.im/) - Lightweight, open source Jabber server, written in Lua.
 * [Tigase](https://tigase.net/content/tigase-xmpp-server) - Highly optimized, modular and flexibe XMPP server.
-* [Vysper](//mina.apache.org/vysper-project/) - XMPP Modular server from Apache
+* [Vysper](https://mina.apache.org/vysper-project/) - XMPP Modular server from Apache
+* [Xabber](https://www.xabber.com/server/) - Xabber XMPP Server
 
 ## Libraries
 
