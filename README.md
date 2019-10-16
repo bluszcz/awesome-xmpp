@@ -31,11 +31,14 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Dino](https://github.com/dino/dino) - Modern Jabber/XMPP Client using GTK+/Vala.
 * [Gajim](https://gajim.org/) - Full featured and easy to use XMPP client (Python GTK3).
 * [JSXC](https://www.jsxc.org/) - Modern, open source and available as Owncloud/Nextcloud plugin web client.
+* [Kaidan](https://git.kaidan.im/kaidan/kaidan/) - Cross-platform XMPP client.
 * [Kaiwa](http://getkaiwa.com/) - Modern and apen source Web client for XMPP. 
 * [Pidgin](https://www.pidgin.im/) - Chat program with support for multiple networks, crossplatform.
 * [Profanity](http://www.profanity.im/) - Console based XMPP, Linux, FreeBSD, OSX, Windows and Android.
 * [Psi](https://psi-im.org/) - Qt client (Linux, Windows, OSX).
 * [Swift](https://swift.im/) - Elegant, secure, adaptable and intuitive XMPP client.
+* [UWPX](https://uwpx.org/) - UWP Windows 10 application.
+* [Yaxim](https://yaxim.org/) - Yet Another XMPP Instant Messenger (Android).
 
 ## Servers 
 
@@ -48,7 +51,6 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Tigase](https://tigase.net/content/tigase-xmpp-server) - Highly optimized, modular and flexibe XMPP server.
 * [Vysper](//mina.apache.org/vysper-project/) - XMPP Modular server from Apache
 
-
 ## Libraries
 
 * [PyXMPP](https://github.com/Jajcus/pyxmpp) - Python Jabber/XMPP implementation.
@@ -60,6 +62,8 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 * [Movim](https://github.com/movim/movim) - Distributed social network built on top of XMPP.
 * [Saros](http://www.saros-project.org/) - Real-time collaborative editor for eclipse projects.
+* [Biboumi](https://github.com/louiz/biboumi) - IRC gateway for XMPP.
+* [Salut à Toi](https://salut-a-toi.org/) - All-in-one tool to manage instant messaging, (micro)blogging, file sharing, events, forums, tasks management, etc.
 
 ## Miscellaneous
 
@@ -68,6 +72,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [XMPP Compliance](https://conversations.im/compliance/) - Service checking compliance of the XMPP servers.
 * [XMPP Manifesto for Freedom](https://gitlab.com/senpie/xmpp-manifesto-for-freedom) - Freedom Manifesto, response to above.
 * [XMPP Observatory](https://xmpp.net/) - Testing the security of the Jabber/XMPP network.
+* [OMEMO](https://omemo.top/) - Progress of OMEMO integration in various XMPP clients.
 
 ## Most robust XMPP providers
 
