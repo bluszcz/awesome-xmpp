@@ -24,6 +24,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 ## Clients
 
 * [Adium](https://adium.im/) - Open source multi-protocol instant messaging client for Mac OS X.
+* [BeagleIM](https://beagle.im/) - Open source client for Apple desktop operating system (macOS)
 * [ChatSecure](https://chatsecure.org/) - Encrypted Messenger for iOS.
 * [Conversations](https://github.com/siacs/Conversations) - Open source XMPP/Jabber client for the Android.
 * [Converse](https://conversejs.org/) - Free and open-source XMPP chat client in your browser.
@@ -36,6 +37,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Pidgin](https://www.pidgin.im/) - Chat program with support for multiple networks, crossplatform.
 * [Profanity](http://www.profanity.im/) - Console based XMPP, Linux, FreeBSD, OSX, Windows and Android.
 * [Psi](https://psi-im.org/) - Qt client (Linux, Windows, OSX).
+* [SiskinIM](https://siskin.im/) - Open source client for Apple mobile platform (iOS)
 * [Swift](https://swift.im/) - Elegant, secure, adaptable and intuitive XMPP client.
 * [UWPX](https://uwpx.org/) - UWP Windows 10 application.
 * [Yaxim](https://yaxim.org/) - Yet Another XMPP Instant Messenger (Android).
@@ -54,9 +56,11 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Libraries
 
+* [JaXMPP](https://github.com/tigaseinc/jaxmpp) - Java XMPP client library
 * [PyXMPP](https://github.com/Jajcus/pyxmpp) - Python Jabber/XMPP implementation.
 * [SleekXMPP](https://github.com/fritzy/SleekXMPP) - Python 2.6+/3.1+ XMPP Library.
 * [Swiften](https://swift.im/swiften.html) - Cross-platform, and performant C++.
+* [Tigase Swift](https://github.com/tigaseinc/tigase-swift) - Tigase Swift XMPP client library
 * [xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript.
 
 ## Advanced Usages
