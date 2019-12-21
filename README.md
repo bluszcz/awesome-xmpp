@@ -62,6 +62,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Swiften](https://swift.im/swiften.html) - Cross-platform, and performant C++.
 * [Tigase Swift](https://github.com/tigaseinc/tigase-swift) - Tigase Swift XMPP client library
 * [xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript.
+* [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) - XMPP Framework in Objective-C for the Mac and iOS 
 
 ## Advanced Usages
 
