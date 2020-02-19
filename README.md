@@ -41,6 +41,8 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Swift](https://swift.im/) - Elegant, secure, adaptable and intuitive XMPP client.
 * [UWPX](https://uwpx.org/) - UWP Windows 10 application.
 * [Yaxim](https://yaxim.org/) - Yet Another XMPP Instant Messenger (Android).
+* [Xabber Android](https://github.com/redsolution/xabber-android) - Android version of Xabber
+* [Xabber Web](https://github.com/redsolution/xabber-web) - Web version of Xabber.
 
 ## Servers 
 
