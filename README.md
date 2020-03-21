@@ -81,6 +81,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [XMPP Manifesto for Freedom](https://gitlab.com/senpie/xmpp-manifesto-for-freedom) - Freedom Manifesto, response to above.
 * [XMPP Observatory](https://xmpp.net/) - Testing the security of the Jabber/XMPP network.
 * [OMEMO](https://omemo.top/) - Progress of OMEMO integration in various XMPP clients.
+* [Search MUC Jabber Network](https://search.jabber.network/) - Search Chat Jabberp XMPP Network.
 
 ## Most robust XMPP providers
 
