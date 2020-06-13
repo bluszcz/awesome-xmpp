@@ -43,6 +43,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Yaxim](https://yaxim.org/) - Yet Another XMPP Instant Messenger (Android).
 * [Xabber Android](https://github.com/redsolution/xabber-android) - Android version of Xabber
 * [Xabber Web](https://github.com/redsolution/xabber-web) - Web version of Xabber.
+* [xmppc](https://codeberg.org/Anoxinon_e.V./xmppc) - CLI XMPP client.
 
 ## Servers 
 
@@ -66,8 +67,12 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript.
 * [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) - XMPP Framework in Objective-C for the Mac and iOS 
 
+## Tools
+* [omemo-utils](https://github.com/wstrm/omemo-utils) - Utilities for OMEMO media sharing.
+
 ## Advanced Usages
 
+* [eagle](https://codeberg.org/eagle/eagle) - XMPP Groupware.
 * [Movim](https://github.com/movim/movim) - Distributed social network built on top of XMPP.
 * [Saros](http://www.saros-project.org/) - Real-time collaborative editor for eclipse projects.
 * [Biboumi](https://github.com/louiz/biboumi) - IRC gateway for XMPP.
