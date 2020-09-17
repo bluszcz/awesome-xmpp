@@ -32,7 +32,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Dino](https://github.com/dino/dino) - Modern Jabber/XMPP Client using GTK+/Vala.
 * [Gajim](https://gajim.org/) - Full featured and easy to use XMPP client (Python GTK3).
 * [JSXC](https://www.jsxc.org/) - Modern, open source and available as Owncloud/Nextcloud plugin web client.
-* [Kaidan](https://git.kaidan.im/kaidan/kaidan/) - Cross-platform XMPP client.
+* [Kaidan](https://kaidan.im/) - Cross-platform XMPP client.
 * [Kaiwa](http://getkaiwa.com/) - Modern and apen source Web client for XMPP. 
 * [Pidgin](https://www.pidgin.im/) - Chat program with support for multiple networks, crossplatform.
 * [Profanity](http://www.profanity.im/) - Console based XMPP, Linux, FreeBSD, OSX, Windows and Android.
