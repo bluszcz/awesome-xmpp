@@ -67,6 +67,10 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript.
 * [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) - XMPP Framework in Objective-C for the Mac and iOS 
 
+## Bots
+
+* [riddim](http://code.matthewwild.co.uk/riddim) - XMPP bot and bot framework for Lua using Verse
+
 ## Tools
 * [omemo-utils](https://github.com/wstrm/omemo-utils) - Utilities for OMEMO media sharing.
 * [xmpp-console](https://github.com/pasis/xmppconsole) - Send raw XMPP stanzas and display streams.
