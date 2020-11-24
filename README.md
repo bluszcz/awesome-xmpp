@@ -70,6 +70,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 ## Bots
 
 * [riddim](http://code.matthewwild.co.uk/riddim) - XMPP bot and bot framework for Lua using Verse
+* [hawkbit-bot](https://codeberg.org/eagle/hawkbit-bot) - XMPP bot written in C++ with Gloox
 
 ## Tools
 * [omemo-utils](https://github.com/wstrm/omemo-utils) - Utilities for OMEMO media sharing.
