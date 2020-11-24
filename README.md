@@ -35,7 +35,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Kaidan](https://kaidan.im/) - Cross-platform XMPP client.
 * [Kaiwa](http://getkaiwa.com/) - Modern and apen source Web client for XMPP. 
 * [Pidgin](https://www.pidgin.im/) - Chat program with support for multiple networks, crossplatform.
-* [Profanity](http://www.profanity.im/) - Console based XMPP, Linux, FreeBSD, OSX, Windows and Android.
+* [Profanity](https://profanity-im.github.io/) - Console based XMPP, Linux, FreeBSD, OSX, Windows and Android.
 * [Psi](https://psi-im.org/) - Qt client (Linux, Windows, OSX).
 * [SiskinIM](https://siskin.im/) - Open source client for Apple mobile platform (iOS)
 * [Swift](https://swift.im/) - Elegant, secure, adaptable and intuitive XMPP client.
