@@ -35,7 +35,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Kaidan](https://kaidan.im/) - Cross-platform XMPP client.
 * [Kaiwa](http://getkaiwa.com/) - Modern and apen source Web client for XMPP. 
 * [Pidgin](https://www.pidgin.im/) - Chat program with support for multiple networks, crossplatform.
-* [Profanity](http://www.profanity.im/) - Console based XMPP, Linux, FreeBSD, OSX, Windows and Android.
+* [Profanity](https://profanity-im.github.io/) - Console based XMPP, Linux, FreeBSD, OSX, Windows and Android.
 * [Psi](https://psi-im.org/) - Qt client (Linux, Windows, OSX).
 * [SiskinIM](https://siskin.im/) - Open source client for Apple mobile platform (iOS)
 * [Swift](https://swift.im/) - Elegant, secure, adaptable and intuitive XMPP client.
@@ -66,6 +66,13 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Tigase Swift](https://github.com/tigaseinc/tigase-swift) - Tigase Swift XMPP client library
 * [xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript.
 * [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) - XMPP Framework in Objective-C for the Mac and iOS 
+
+## Bots
+
+* [commitbot](https://github.com/metajack/commitbot) - XMPP bot that notifies MUCs of git repository commits.
+* [hawkbit-bot](https://codeberg.org/eagle/hawkbit-bot) - XMPP bot written in C++ with Gloox.
+* [issuebot](https://github.com/malexmave/issuebot) - XMPP bot that notifies MUCs of changes to Issues on a GitHub-Project.
+* [riddim](http://code.matthewwild.co.uk/riddim) - XMPP bot and bot framework for Lua using Verse.
 
 ## Tools
 * [omemo-utils](https://github.com/wstrm/omemo-utils) - Utilities for OMEMO media sharing.
