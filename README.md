@@ -105,7 +105,6 @@ This is awesome, because these servers are mainly hosted by private parties and 
 
 * [jabber.cz](https://jabber.cz)
 * [jabber.meta.net.nz](https://jabber.meta.net.nz)
-* [jabberpl.org](https://jabberpl.org)
 * [jwchat.org](https://jwchat.org)
 * [njs.netlab.cz](https://njs.netlab.cz)
 
