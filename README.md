@@ -81,10 +81,12 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 ## Tools
 * [omemo-utils](https://github.com/wstrm/omemo-utils) - Utilities for OMEMO media sharing.
 * [xmpp-console](https://github.com/pasis/xmppconsole) - Send raw XMPP stanzas and display streams.
+* [xmpp-dns](https://salsa.debian.org/mdosch/xmpp-dns) - A CLI tool to check XMPP SRV records.
 
 ## Advanced Usages
 
 * [eagle](https://codeberg.org/eagle/eagle) - XMPP Groupware.
+* [go-sendxmpp](https://salsa.debian.org/mdosch/go-sendxmpp) - A little tool to send messages to an XMPP contact or MUC.
 * [Movim](https://github.com/movim/movim) - Distributed social network built on top of XMPP.
 * [Saros](http://www.saros-project.org/) - Real-time collaborative editor for eclipse projects.
 * [Biboumi](https://github.com/louiz/biboumi) - IRC gateway for XMPP.
