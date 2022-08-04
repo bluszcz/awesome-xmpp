@@ -81,6 +81,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 ## Tools
 * [omemo-utils](https://github.com/wstrm/omemo-utils) - Utilities for OMEMO media sharing.
 * [xmpp-console](https://github.com/pasis/xmppconsole) - Send raw XMPP stanzas and display streams.
+* [xmpp-dns](https://salsa.debian.org/mdosch/xmpp-dns) - A CLI tool to check XMPP SRV records.
 
 ## Advanced Usages
 
