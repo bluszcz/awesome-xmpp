@@ -26,6 +26,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Adium](https://adium.im/) - Open source multi-protocol instant messaging client for Mac OS X.
 * [BeagleIM](https://beagle.im/) - Open source client for Apple desktop operating system (macOS)
 * [ChatSecure](https://chatsecure.org/) - Encrypted Messenger for iOS.
+* [Cheogram](https://cheogram.com/) - Fork of Conversations adding missed calls notifications and other features. (Android)
 * [clix](http://code.matthewwild.co.uk/) - Command line XMPP client written in Lua.
 * [Conversations](https://github.com/siacs/Conversations) - Open source XMPP/Jabber client for the Android.
 * [Converse](https://conversejs.org/) - Free and open-source XMPP chat client in your browser.
