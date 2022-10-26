@@ -87,7 +87,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 ## Advanced Usages
 
 * [eagle](https://codeberg.org/eagle/eagle) - XMPP Groupware.
-* [go-sendxmpp](https://salsa.debian.org/mdosch/go-sendxmpp) - A little tool to send messages to an XMPP contact or MUC.
+* [go-sendxmpp](https://salsa.debian.org/mdosch/go-sendxmpp), [sendxmpp-rs](https://github.com/moparisthebest/sendxmpp-rs) - little tools to send messages to an XMPP contact or MUC.
 * [Movim](https://github.com/movim/movim) - Distributed social network built on top of XMPP.
 * [Saros](http://www.saros-project.org/) - Real-time collaborative editor for eclipse projects.
 * [Biboumi](https://github.com/louiz/biboumi) - IRC gateway for XMPP.
