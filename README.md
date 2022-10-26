@@ -64,6 +64,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 ## Libraries
 
 * [JaXMPP](https://github.com/tigaseinc/jaxmpp) - Java XMPP client library
+* [Babbler](https://github.com/sco0ter/babbler) - a young Java XMPP client library based on JAXB.
 * [PyXMPP](https://github.com/Jajcus/pyxmpp) - Python Jabber/XMPP implementation.
 * [SleekXMPP](https://github.com/fritzy/SleekXMPP) - Python 2.6+/3.1+ XMPP Library.
 * [Swiften](https://swift.im/swiften.html) - Cross-platform, and performant C++.
