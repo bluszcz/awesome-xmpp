@@ -72,6 +72,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Verse](http://code.matthewwild.co.uk/) - XMPP client library written in Lua
 * [xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript.
 * [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) - XMPP Framework in Objective-C for the Mac and iOS 
+* [xmpp-rs](https://gitlab.com/xmpp-rs/xmpp-rs) - XMPP for Rust.
 
 ## Bots
 
