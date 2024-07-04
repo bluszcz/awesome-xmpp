@@ -82,6 +82,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [riddim](http://code.matthewwild.co.uk/riddim) - XMPP bot and bot framework for Lua using Verse.
 
 ## Tools
+* [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1-click installer and maintenance suite to run an XMPP server on your Windows, MacOS or Linux computer.
 * [omemo-utils](https://github.com/wstrm/omemo-utils) - Utilities for OMEMO media sharing.
 * [xmpp-console](https://github.com/pasis/xmppconsole) - Send raw XMPP stanzas and display streams.
 * [xmpp-dns](https://salsa.debian.org/mdosch/xmpp-dns) - A CLI tool to check XMPP SRV records.
