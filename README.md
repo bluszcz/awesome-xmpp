@@ -29,13 +29,13 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Cheogram](https://cheogram.com/) - Fork of Conversations adding missed calls notifications and other features. (Android)
 * [clix](http://code.matthewwild.co.uk/) - Command line XMPP client written in Lua.
 * [Conversations](https://github.com/siacs/Conversations) - Open source XMPP/Jabber client for the Android.
-* [Converse](https://conversejs.org/) - Free and open-source XMPP chat client in your browser.
+* [Converse](https://conversejs.org/) - Free and open source XMPP chat client in your browser.
 * [Coyim](https://github.com/coyim/coyim) - Safe and secure chat client.
 * [Dino](https://github.com/dino/dino) - Modern Jabber/XMPP Client using GTK+/Vala.
 * [Gajim](https://gajim.org/) - Full featured and easy to use XMPP client (Python GTK3).
 * [JSXC](https://www.jsxc.org/) - Modern, open source and available as Owncloud/Nextcloud plugin web client.
 * [Kaidan](https://kaidan.im/) - Cross-platform XMPP client.
-* [Kaiwa](http://getkaiwa.com/) - Modern and apen source Web client for XMPP. 
+* [Kaiwa](http://getkaiwa.com/) - Modern and open source Web client for XMPP. 
 * [Pidgin](https://www.pidgin.im/) - Chat program with support for multiple networks, crossplatform.
 * [Profanity](https://profanity-im.github.io/) - Console based XMPP, Linux, FreeBSD, OSX, Windows and Android.
 * [Psi](https://psi-im.org/) - Qt client (Linux, Windows, OSX).
