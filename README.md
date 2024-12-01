@@ -47,6 +47,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Xabber Android](https://github.com/redsolution/xabber-android) - Android version of Xabber
 * [Xabber Web](https://github.com/redsolution/xabber-web) - Web version of Xabber.
 * [xmppc](https://codeberg.org/Anoxinon_e.V./xmppc) - CLI XMPP client.
+* [Communiqué](https://codeberg.org/mellium/communique-tui/) - TUI XMPP client with a keyboard shortcut focused interface
 
 ## Servers 
 
@@ -73,6 +74,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript.
 * [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) - XMPP Framework in Objective-C for the Mac and iOS 
 * [xmpp-rs](https://gitlab.com/xmpp-rs/xmpp-rs) - XMPP for Rust.
+* [mellium.im/xmpp](https://mellium.im/xmpp/) - XMPP libraries and tools for Go
 
 ## Bots
 
