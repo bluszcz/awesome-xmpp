@@ -61,7 +61,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Tigase](https://tigase.net/content/tigase-xmpp-server) - Highly optimized, modular and flexibe XMPP server.
 * [Vysper](https://mina.apache.org/vysper-project/) - XMPP Modular server from Apache
 * [Xabber](https://www.xabber.com/server/) - Xabber XMPP Server
-
+* [omparison of XMPP servers](https://handwiki.org/wiki/Software:Comparison_of_XMPP_server_software)
 ## Libraries
 
 * [JaXMPP](https://github.com/tigaseinc/jaxmpp) - Java XMPP client library
