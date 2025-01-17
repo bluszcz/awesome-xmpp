@@ -48,7 +48,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Xabber Web](https://github.com/redsolution/xabber-web) - Web version of Xabber.
 * [xmppc](https://codeberg.org/Anoxinon_e.V./xmppc) - CLI XMPP client.
 * [Communiqué](https://codeberg.org/mellium/communique-tui/) - TUI XMPP client with a keyboard shortcut focused interface
-
+* [Comparison of XMPP clients](https://handwiki.org/wiki/Software:Comparison%20of%20XMPP%20clients)
 ## Servers 
 
 * [Astra](https://www.astrachat.com/) - Commercial XMPP solution
