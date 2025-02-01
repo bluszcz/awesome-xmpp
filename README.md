@@ -48,7 +48,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Xabber Web](https://github.com/redsolution/xabber-web) - Web version of Xabber.
 * [xmppc](https://codeberg.org/Anoxinon_e.V./xmppc) - CLI XMPP client.
 * [Communiqué](https://codeberg.org/mellium/communique-tui/) - TUI XMPP client with a keyboard shortcut focused interface
-
+* [Comparison of XMPP clients](https://handwiki.org/wiki/Software:Comparison%20of%20XMPP%20clients)
 ## Servers 
 
 * [Astra](https://www.astrachat.com/) - Commercial XMPP solution
@@ -61,7 +61,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Tigase](https://tigase.net/content/tigase-xmpp-server) - Highly optimized, modular and flexibe XMPP server.
 * [Vysper](https://mina.apache.org/vysper-project/) - XMPP Modular server from Apache
 * [Xabber](https://www.xabber.com/server/) - Xabber XMPP Server
-
+* [omparison of XMPP servers](https://handwiki.org/wiki/Software:Comparison_of_XMPP_server_software)
 ## Libraries
 
 * [JaXMPP](https://github.com/tigaseinc/jaxmpp) - Java XMPP client library
