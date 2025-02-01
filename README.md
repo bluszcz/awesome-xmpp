@@ -108,19 +108,6 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [OMEMO](https://omemo.top/) - Progress of OMEMO integration in various XMPP clients.
 * [Search MUC Jabber Network](https://search.jabber.network/) - Search Chat Jabberp XMPP Network.
 
-## Most robust XMPP providers
-
-XMPP Providers with more than 15 years uptime and with an *A* security grade.
-This is awesome, because these servers are mainly hosted by private parties and it not common to keep a system up for more then a decade.
-
-* [jabber.cz](https://jabber.cz)
-* [jabber.meta.net.nz](https://jabber.meta.net.nz)
-* [jwchat.org](https://jwchat.org)
-* [njs.netlab.cz](https://njs.netlab.cz)
-
-This list was extracted with following command:
-
-    links -dump https://xmpp.net/directory.php |grep -p '200[0-3]' |grep ' A '
 
 ## License
 
