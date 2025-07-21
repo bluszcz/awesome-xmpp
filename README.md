@@ -23,12 +23,13 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 
 ## Clients
 
+* [Apps and clients on XMPP.org](https://xmpp.org/software/)
+* [Comparison of XMPP clients](https://handwiki.org/wiki/Software:Comparison%20of%20XMPP%20clients)
+
+### Desktop and Web
+
 * [Adium](https://adium.im/) - Open source multi-protocol instant messaging client for Mac OS X.
 * [BeagleIM](https://beagle.im/) - Open source client for Apple desktop operating system (macOS)
-* [ChatSecure](https://chatsecure.org/) - Encrypted Messenger for iOS.
-* [Cheogram](https://cheogram.com/) - Fork of Conversations adding missed calls notifications and other features. (Android)
-* [clix](http://code.matthewwild.co.uk/) - Command line XMPP client written in Lua.
-* [Conversations](https://github.com/siacs/Conversations) - Open source XMPP/Jabber client for the Android.
 * [Converse](https://conversejs.org/) - Free and open source XMPP chat client in your browser.
 * [Coyim](https://github.com/coyim/coyim) - Safe and secure chat client.
 * [Dino](https://github.com/dino/dino) - Modern Jabber/XMPP Client using GTK+/Vala.
@@ -37,18 +38,34 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Kaidan](https://kaidan.im/) - Cross-platform XMPP client.
 * [Kaiwa](http://getkaiwa.com/) - Modern and open source Web client for XMPP. 
 * [Pidgin](https://www.pidgin.im/) - Chat program with support for multiple networks, crossplatform.
-* [Profanity](https://profanity-im.github.io/) - Console based XMPP, Linux, FreeBSD, OSX, Windows and Android.
 * [Psi](https://psi-im.org/) - Qt client (Linux, Windows, OSX).
-* [SiskinIM](https://siskin.im/) - Open source client for Apple mobile platform (iOS)
-* [sj](https://github.com/younix/sj) - simple jabber client
-* [Swift](https://swift.im/) - Elegant, secure, adaptable and intuitive XMPP client.
+* [Swift](https://swift.im/) - Elegant, secure, adaptable and intuitive XMPP client. Windows, Mac OSX, Linux.
 * [UWPX](https://uwpx.org/) - UWP Windows 10 application.
+* [Xabber Web](https://github.com/redsolution/xabber-web) - Web version of Xabber.
+
+### Mobile
+
+* [Conversations](https://github.com/siacs/Conversations) - Open source XMPP/Jabber client for the Android.
+* [Cheogram](https://cheogram.com/) - Fork of Conversations adding missed calls notifications and other features. (Android)
+* [ChatSecure](https://chatsecure.org/) - Encrypted Messenger for iOS.
+* [Chatty](https://gitlab.gnome.org/World/Chatty) - XMPP, Matrix and SMS/MMS mobile application for Phosh and GNOME
+* [SiskinIM](https://siskin.im/) - Open source client for Apple mobile platform (iOS)
 * [Yaxim](https://yaxim.org/) - Yet Another XMPP Instant Messenger (Android).
 * [Xabber Android](https://github.com/redsolution/xabber-android) - Android version of Xabber
-* [Xabber Web](https://github.com/redsolution/xabber-web) - Web version of Xabber.
-* [xmppc](https://codeberg.org/Anoxinon_e.V./xmppc) - CLI XMPP client.
+
+### Console, Text User Interface (TUI) or command line tools
+
+* [clix](http://code.matthewwild.co.uk/) - Command line XMPP client written in Lua.
 * [Communiqué](https://codeberg.org/mellium/communique-tui/) - TUI XMPP client with a keyboard shortcut focused interface
-* [Comparison of XMPP clients](https://handwiki.org/wiki/Software:Comparison%20of%20XMPP%20clients)
+* [go-sendxmpp](https://salsa.debian.org/mdosch/go-sendxmpp) - a tool to send messages or files to an XMPP contact or MUC.
+* [Libervia Primitivus](https://libervia.org/__b/doc/backend/libervia-tui/)
+* [MCabber](https://mcabber.com/) - small XMPP console client.
+* [Poezio](https://poez.io) - console XMPP with TUI.
+* [Profanity](https://profanity-im.github.io/) - Console based XMPP, Linux, FreeBSD, OSX, Windows and Android.
+* [sendxmpp](https://github.com/lhost/sendxmpp) - perl-script to send XMPP, similar to what mail(1) does for mail. 
+* [sj](https://github.com/younix/sj) - simple client with UNIX philosophy in mind.
+* [xmppc](https://codeberg.org/Anoxinon_e.V./xmppc) - CLI XMPP client.
+
 ## Servers 
 
 * [Astra](https://www.astrachat.com/) - Commercial XMPP solution
