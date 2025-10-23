@@ -37,6 +37,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Coyim](https://github.com/coyim/coyim) - Safe and secure chat client.
 * [Dino](https://github.com/dino/dino) - Modern Jabber/XMPP Client using GTK+/Vala.
 * [Gajim](https://gajim.org/) - Full featured and easy to use XMPP client (Python GTK3).
+* [jabber.el](https://codeberg.org/emacs-jabber/emacs-jabber) - Client for GNU Emacs.
 * [JSXC](https://www.jsxc.org/) - Modern, open source and available as Owncloud/Nextcloud plugin web client.
 * [Kaidan](https://kaidan.im/) - Cross-platform XMPP client.
 * [Kaiwa](http://getkaiwa.com/) - Modern and open source Web client for XMPP. 
