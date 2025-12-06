@@ -67,7 +67,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Tigase](https://tigase.net/content/tigase-xmpp-server) - Highly optimized, modular and flexibe XMPP server.
 * [Vysper](https://mina.apache.org/vysper-project/) - XMPP Modular server from Apache
 * [Xabber](https://www.xabber.com/server/) - Xabber XMPP Server
-* [omparison of XMPP servers](https://handwiki.org/wiki/Software:Comparison_of_XMPP_server_software)
+* [Comparison of XMPP servers](https://handwiki.org/wiki/Software:Comparison_of_XMPP_server_software)
 
 ## Libraries
 
@@ -86,6 +86,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 ## Bots
 
 * [commitbot](https://github.com/metajack/commitbot) - XMPP bot that notifies MUCs of git repository commits.
+* [jutella-xmpp](https://github.com/dmitry-markin/jutella-xmpp) - XMPP chatbot supporting PDFs & images and working with OpenRouter models.
 * [hawkbit-bot](https://codeberg.org/eagle/hawkbit-bot) - XMPP bot written in C++ with Gloox.
 * [issuebot](https://github.com/malexmave/issuebot) - XMPP bot that notifies MUCs of changes to Issues on a GitHub-Project.
 * [riddim](http://code.matthewwild.co.uk/riddim) - XMPP bot and bot framework for Lua using Verse.
