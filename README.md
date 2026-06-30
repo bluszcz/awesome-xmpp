@@ -50,6 +50,7 @@ XMPP is an open XML technology for real-time communication, which powers a wide 
 * [Yaxim](https://yaxim.org/) - Yet Another XMPP Instant Messenger (Android).
 * [Xabber Android](https://github.com/redsolution/xabber-android) - Android version of Xabber
 * [Xabber Web](https://github.com/redsolution/xabber-web) - Web version of Xabber.
+* [Xepher Weechat](https://github.com/ekollof/xepher) - XMPP plugin for Weechat.
 * [xmppc](https://codeberg.org/Anoxinon_e.V./xmppc) - CLI XMPP client.
 * [Communiqué](https://codeberg.org/mellium/communique-tui/) - TUI XMPP client with a keyboard shortcut focused interface
 * [Comparison of XMPP clients](https://handwiki.org/wiki/Software:Comparison%20of%20XMPP%20clients)
